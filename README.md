@@ -17,7 +17,7 @@
 
 ## 📦 安装脚本
 
-👉 点击安装：[GreasyFork 脚本地址](https://greasyfork.org/scripts/你的脚本编号)
+👉 点击安装：[GreasyFork 脚本地址](https://greasyfork.org/scripts/532682-git-image-preview-ctrl-option-click)
 
 或者复制以下地址添加到油猴插件中：
 
@@ -31,6 +31,10 @@ https://raw.githubusercontent.com/stuarthua/git-image-preview/main/GitHubImagePr
 2. 安装本脚本
 3. 浏览任意 GitHub 仓库
 4. 按住 `Ctrl`（Windows）或 `Option ⌥`（Mac）点击 README 中的图片，即可弹出预览窗口
+
+## 测试
+
+![测试图片](images/ai-fox.webp)
 
 ---
 
