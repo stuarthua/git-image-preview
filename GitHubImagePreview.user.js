@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Git Image Preview (Ctrl/Option Click)
 // @namespace    https://github.com/stuarthua/git-image-preview
-// @version      1.0.1
+// @version      1.0.2
 // @description  按住 Ctrl/Option 点击 GitHub 页面中的图片，即可在当前页面预览原图，支持滚轮缩放
 // @author       stuarthua
 // @match        https://github.com/*
